@@ -3,7 +3,7 @@ Space creates web applications from the design, creation of digital, representat
 The people are fictional, the pictures are illustrative, the project was created while learning ReactJS.
 
 <p align="center">
-<img src="![01](https://user-images.githubusercontent.com/68461931/106137672-54617480-616b-11eb-8b99-1ffcfc91595d.png)">
+<img width="250" height="650" src="![01](https://user-images.githubusercontent.com/68461931/106137672-54617480-616b-11eb-8b99-1ffcfc91595d.png)">
 </p>
 
 
