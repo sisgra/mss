@@ -1,3 +1,10 @@
+The space mss page is created to present the space mss, which was created by merging two developers and a photographer. 
+Space creates web applications from the design, creation of digital, representative materials to the final versions of websites. 
+The people are fictional, the pictures are illustrative, the project was created while learning ReactJS.
+
+![01](https://user-images.githubusercontent.com/68461931/106137672-54617480-616b-11eb-8b99-1ffcfc91595d.png)
+![02](https://user-images.githubusercontent.com/68461931/106137925-bb7f2900-616b-11eb-86ce-420757a8dde6.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
